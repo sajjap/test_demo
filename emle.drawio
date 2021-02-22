@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T18:13:48.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Ai1n43dORspV_PHZtaHT" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T18:18:56.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Evboq5DC7mb9lXc0VH6r" version="14.4.2" type="github">
   <diagram id="orhhTj5fpgEr7YiMFgsg" name="Page-1">
-    <mxGraphModel dx="3085" dy="1173" grid="0" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1400" math="0" shadow="1">
+    <mxGraphModel dx="2204" dy="1450" grid="0" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1400" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sAE8KNF04B_xrsy3_MAK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000CC;fillColor=none;fontSize=14;arcSize=4;dashed=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="400" y="64" width="940" height="1280" as="geometry" />
+          <mxGeometry x="400" y="84" width="940" height="1280" as="geometry" />
         </mxCell>
         <mxCell id="sAE8KNF04B_xrsy3_MAK-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1081" y="249" width="219" height="170" as="geometry" />
         </mxCell>
         <mxCell id="sAE8KNF04B_xrsy3_MAK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFB570;fontSize=14;fillColor=none;arcSize=16;fontColor=none;labelBorderColor=none;noLabel=1;strokeWidth=3;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="412.5" y="140" width="610" height="1200" as="geometry" />
+          <mxGeometry x="412.5" y="140" width="610" height="1183" as="geometry" />
         </mxCell>
         <mxCell id="sAE8KNF04B_xrsy3_MAK-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="469" y="209" width="300" height="230" as="geometry" />
@@ -47,7 +47,7 @@
         <mxCell id="sAE8KNF04B_xrsy3_MAK-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.glue;fillColor=#F58534;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="680" y="247.25" width="75" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="sAE8KNF04B_xrsy3_MAK-11" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;Spark ML&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#4e8279&quot;&gt;Sagemaker ML&lt;/font&gt;&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#ff8000&quot;&gt;Spark&lt;/font&gt;&lt;font color=&quot;#ffb570&quot;&gt;&amp;nbsp;ML&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;b style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#4e8279&quot;&gt;Sagemaker ML&lt;/font&gt;&lt;font color=&quot;#6ab0a4&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#4e8279&quot;&gt;Sagemaker ML&lt;/font&gt;&lt;font color=&quot;#6ab0a4&quot;&gt;&amp;nbsp;&lt;/font&gt;/&lt;font color=&quot;#6ab0a4&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff00ff&quot;&gt;Custom ML&lt;/font&gt;&lt;font color=&quot;#6ab0a4&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;fontSize=14;glass=0;shadow=0;comic=0;rounded=0;arcSize=12;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="sAE8KNF04B_xrsy3_MAK-11" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;Spark ML&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#4e8279&quot;&gt;Sagemaker ML&lt;/font&gt;&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#ff8000&quot;&gt;Spark&lt;/font&gt;&lt;font color=&quot;#ffb570&quot;&gt;&amp;nbsp;ML&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;b style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#4e8279&quot;&gt;Sagemaker ML&lt;/font&gt;&lt;font color=&quot;#6ab0a4&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#4e8279&quot;&gt;Sagemaker ML&lt;/font&gt;&lt;font color=&quot;#6ab0a4&quot;&gt;&amp;nbsp;&lt;/font&gt;/&lt;font color=&quot;#6ab0a4&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff00ff&quot;&gt;Custom ML&lt;/font&gt;&lt;font color=&quot;#6ab0a4&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;fontSize=14;glass=0;shadow=1;comic=0;rounded=1;arcSize=0;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="70" y="612.5" width="150" height="233" as="geometry" />
         </mxCell>
         <mxCell id="sAE8KNF04B_xrsy3_MAK-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=14;" parent="1" vertex="1">
@@ -164,7 +164,7 @@
           <mxGeometry x="469" y="99" width="79.5" height="54" as="geometry" />
         </mxCell>
         <mxCell id="sAE8KNF04B_xrsy3_MAK-43" value="us-east-region" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="446" y="1335" width="134" height="20" as="geometry" />
+          <mxGeometry x="446" y="1343" width="134" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sAE8KNF04B_xrsy3_MAK-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_S3_Bucket_with_Objects-128.png;dashed=1;strokeColor=#000000;strokeWidth=3;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1109.75" y="259" width="70.25" height="70.25" as="geometry" />
@@ -235,7 +235,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sAE8KNF04B_xrsy3_MAK-61" value="" style="curved=1;endArrow=classic;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#66B2FF;" parent="1" source="sAE8KNF04B_xrsy3_MAK-11" target="sAE8KNF04B_xrsy3_MAK-41" edge="1">
+        <mxCell id="sAE8KNF04B_xrsy3_MAK-61" value="" style="curved=1;endArrow=classic;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF00FF;" parent="1" source="sAE8KNF04B_xrsy3_MAK-11" target="sAE8KNF04B_xrsy3_MAK-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="1286" as="sourcePoint" />
             <mxPoint x="128" y="921.25" as="targetPoint" />
@@ -342,9 +342,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sAE8KNF04B_xrsy3_MAK-82" value=". Fetch data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=12;" parent="sAE8KNF04B_xrsy3_MAK-81" vertex="1" connectable="0">
+        <mxCell id="sAE8KNF04B_xrsy3_MAK-82" value=". Fetch data /model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=12;" parent="sAE8KNF04B_xrsy3_MAK-81" vertex="1" connectable="0">
           <mxGeometry x="0.1027" relative="1" as="geometry">
             <mxPoint x="69.37" y="24.05" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t6joZ5T9_VmOtq3mIz1r-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sAE8KNF04B_xrsy3_MAK-81">
+          <mxGeometry x="-0.3524" y="24" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sAE8KNF04B_xrsy3_MAK-83" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=15;exitX=0.05;exitY=0.93;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.125;entryY=0.27;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sAE8KNF04B_xrsy3_MAK-13" target="sAE8KNF04B_xrsy3_MAK-16" edge="1">
